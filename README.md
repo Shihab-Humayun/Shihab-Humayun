@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Boot Camp Certificate from the University of Central Florida
+- 🔭 I received a Boot Camp Certificate from the University of Central Florida
 - 🌱 I’m currently learning Neural Networks and Deep Learning Models
 - 👯 I’m looking to collaborate on SQL/Tableau
 - 🤔 I’m looking for help with AWS
